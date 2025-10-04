@@ -3,7 +3,7 @@
 using namespace std;
 
 void printLanguageInfo() {
-    cout << "Эта программа написана на языке C++." << endl;
+    cout << "This program is written in the language C++." << endl;
 }
 int main()
 {
